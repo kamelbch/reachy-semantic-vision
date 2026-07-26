@@ -152,6 +152,10 @@ pip install -r requirements.txt
 
 MobileCLIP doit être installé séparément depuis le dépôt officiel d'Apple. Le checkpoint `mobileclip_s2.pt` doit ensuite être placé dans le chemin attendu par le programme ou fourni avec l'option `--checkpoint`.
 
+La procédure détaillée d'installation de MobileCLIP, la création du dossier
+des checkpoints et les variantes étudiées sont présentées dans
+[`docs/mobileclip_setup.md`](docs/mobileclip_setup.md).
+
 Les poids YOLO et MobileCLIP ne sont pas stockés dans ce dépôt afin d'éviter d'ajouter des fichiers lourds.
 
 ## Lancement
