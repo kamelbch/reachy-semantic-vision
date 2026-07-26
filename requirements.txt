@@ -1,0 +1,10 @@
+numpy
+opencv-python
+ultralytics
+torch
+Pillow
+huggingface-hub
+dynamixel-sdk
+
+# MobileCLIP est installé séparément depuis le dépôt officiel Apple.
+# Le checkpoint mobileclip_s2.pt n'est pas versionné dans ce dépôt.

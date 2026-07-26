@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements
+.venv/
+venv/
+env/
+.env/
+conda-env/
+
+# IDE
+.vscode/
+.idea/
+
+# Modèles lourds
+*.pt
+*.onnx
+*.engine
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Secrets et configuration locale
+*.env
+.env.*
+config.local.*
