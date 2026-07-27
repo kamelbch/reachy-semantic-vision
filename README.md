@@ -231,7 +231,3 @@ requête textuelle
 ```
 
 Le système montre qu'il est possible de combiner OpenCV, YOLO, MobileCLIP et un filtre de Kalman pour obtenir une perception sémantique en temps réel sur Reachy.
-
-## Remarque sur `head_control.py`
-
-Le pipeline principal a été validé au laboratoire avec l'interface de contrôle Dynamixel utilisée sur Reachy. Le fichier `head_control.py` présent dans ce dépôt est une reconstruction compatible fondée sur la configuration et les fonctions utilisées par le programme principal. L'ancien fichier exact n'étant plus disponible, cette distinction est conservée explicitement dans la documentation.
