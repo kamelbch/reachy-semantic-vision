@@ -104,7 +104,17 @@ Les captures suivantes proviennent de tests réalisés avec le flux vidéo de Re
 
 D'autres captures sont disponibles dans [`results/images`](results/images).
 
-Les vidéos montrant les mouvements réels des yeux et de la tête peuvent être placées dans `results/videos` lorsqu'elles sont légères. Pour les vidéos volumineuses, ajouter un lien externe dans cette section.
+## Vidéos de démonstration
+
+Deux vidéos réalisées au laboratoire présentent le fonctionnement du système
+sur le robot Reachy :
+
+- **Démonstration avec plusieurs objets** : changement de cible, détection,
+  segmentation, scan automatique et suivi robotique ;
+- **Détection d'un verre noir** : combinaison de la reconnaissance de l'objet,
+  de la validation de la couleur et du suivi avec les yeux et la tête.
+
+[Voir les vidéos de démonstration sur Google Drive](https://drive.google.com/drive/folders/11w5OCo-LTouQSaijmMwe6HqfAzWtziK3?usp=sharing)
 
 ## Structure du dépôt
 
